@@ -1,67 +1,68 @@
 # Political-Consulting-Project
 Political Consulting deck for a major party in Uttarakhand
 
- Project Overview
+ >>Project Overview
 
-This project analyses voter sentiment, electoral trends, and party positioning in Uttarakhand to identify strategic opportunities for upcoming elections in 2027. The study combines primary survey data with secondary research to generate actionable insights.
+-This project analyses voter sentiment, electoral trends, and party positioning in Uttarakhand to identify strategic opportunities for upcoming elections in 2027. The study combines primary survey data with secondary research to generate actionable insights.
 
-The objective was to evaluate how a political party can align their narrative with voter priorities such as employment, migration, and regional development.
+-The objective was to evaluate how a political party can align their narrative with voter priorities such as employment, migration, and regional development.
 
- Objectives
 
-Analyse voter preferences and issues.
+ >>Objectives
 
-Identify strategic narrative gaps for the next election cycle.
+-Analyse voter preferences and issues.
 
- Data Sources
+-Identify strategic narrative gaps for the next election cycle.
 
-Primary survey (40+ respondents across regions of Uttarakhand using Reddit).
+ >>Data Sources
 
-Secondary Research.
+-Primary survey (40+ respondents across regions of Uttarakhand using Reddit).
 
-Party manifestos analysis
+=Secondary Research.
 
-Historical election trends in Uttarakhand
+-Party manifestos analysis
 
- Methodology
+-Historical election trends in Uttarakhand
 
-Designed and conducted structured survey.
+>>Methodology
 
-Performed analysis by visualizing the data.
+-Designed and conducted structured survey.
 
-Issue clustering and voter segmentation
+-Performed analysis by visualizing the data.
 
- Key Insights
+-Issue clustering and voter segmentation
 
-Employment and migration emerged as top voter concerns
+>>Key Insights
 
-Youth voters showed higher issue-based voting preference
+-Employment and migration emerged as top voter concerns
 
-Opportunity for opposition to reframe campaign around regional development and job creation
+-Youth voters showed higher issue-based voting preference
 
-📈 Strategic Recommendations
+-Opportunity for opposition to reframe campaign around regional development and job creation
 
-Develop youth focused employment narrative
+>>Strategic Recommendations
 
-Use localised campaign messaging for hill vs plain regions
+-Develop youth focused employment narrative
 
- Tools Used
+-Use localised campaign messaging for hill vs plain regions
 
-Microsoft Excel (Data Cleaning & Analysis)
+>>Tools Used
 
-Survey Forms (Primary Data Collection)
+-Microsoft Excel (Data Cleaning & Analysis)
 
-Issue Mapping & Narrative Strategy
+-Survey Forms (Primary Data Collection)
 
- Skills Demonstrated
+-Issue Mapping & Narrative Strategy
 
-Political Strategy Analysis
+>>Skills Demonstrated
 
-Data Interpretation
+-Political Strategy Analysis
 
-Stakeholder & Voter Segmentation
+-Data Interpretation
 
-Data-driven Decision Making
+-Stakeholder & Voter Segmentation
 
-Important Note:
-This project is an independent academic/portfolio study conducted for analytical purposes. The insights are based on limited sample data and publicly available information.
+-Data-driven Decision Making
+
+>>Important Note:
+-This project is an independent academic/portfolio study conducted for analytical purposes. The insights are based on limited sample data and publicly available information.
