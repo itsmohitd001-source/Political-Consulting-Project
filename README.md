@@ -5,7 +5,7 @@ Political Consulting deck for a major party in Uttarakhand
 
 This project analyses voter sentiment, electoral trends, and party positioning in Uttarakhand to identify strategic opportunities for upcoming elections in 2027. The study combines primary survey data with secondary research to generate actionable insights.
 
-The objective was to evaluate how major political parties can align their narrative with voter priorities such as employment, migration, and regional development.
+The objective was to evaluate how a political party can align their narrative with voter priorities such as employment, migration, and regional development.
 
  Objectives
 
